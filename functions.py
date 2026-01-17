@@ -21,7 +21,7 @@ import markdown
 from sqlalchemy import create_engine, text
 
 # Gathering XML articles
-def retrieve_xml_articles(xml_links):
+def retrieve_xml_articles(xml_links: list):
         
     chrome_options = Options()
     chrome_options.add_argument("--headless")                  # Run in headless mode
@@ -31,7 +31,7 @@ def retrieve_xml_articles(xml_links):
     driver = webdriver.Chrome()
 
     # Initalizing news articles df  
-    new_articles = pd.DataFrame(columns=["title", "link", "source", "language", "published_date", "last_modified", "keywords"])  
+    new_articles = pd.DataFrame(columns=["title", "link", "source", "language", "published_date", "keywords"])  
 
     for url in xml_links:
         driver.get(url)
@@ -47,7 +47,7 @@ def retrieve_xml_articles(xml_links):
             source = article.find("news:name").get_text()
             language = article.find("news:language").get_text()
             published_date = article.find("news:publication_date").get_text()
-            last_modified = article.find("lastmod").get_text(strip=True) if article.find("lastmod") else None  
+            #last_modified = article.find("lastmod").get_text(strip=True) if article.find("lastmod") else None  Getting rid of last modified date because AP was only source using it
             keywords = article.find("news:keywords").get_text(strip=True) if article.find("news:keywords") else None
 
 
@@ -57,7 +57,7 @@ def retrieve_xml_articles(xml_links):
             "source": source,
             "language": language,
             "published_date": published_date,
-            "last_modified": last_modified,
+            #"last_modified": last_modified,
             "keywords": [keywords]}, index=[0]) 
 
             new_articles = pd.concat([new_articles, tempdf], ignore_index=True)
@@ -71,9 +71,8 @@ def retrieve_xml_articles(xml_links):
     
     return new_articles
 
-
 # Gathering RSS articles
-def retrieve_rss_feeds(rss_urls_list):
+def retrieve_rss_feeds(rss_urls_list: list):
     rss_stories = pd.DataFrame(columns=["title", "summary", "link", "published_date", "source"])
 
     for rss_url in rss_urls_list:
@@ -95,9 +94,9 @@ def retrieve_rss_feeds(rss_urls_list):
     return rss_stories
 
 
-# Defining how to normalize dates in a really simple way
+# Normalizing published dates in a really clean way (reconciling date formats like "2026-01-01T04:43:20-05:00", "2025-12-31T16:58:19-05:00", "Thu, 20 Nov 2025 13:36:00 Z", and "Thu, 25 Dec 2025 04:00:00 GMT")
 def normalize_date(x):
-    return parser.parse(x).astimezone(tz=None)
+    return parser.parse(x)
 
 
 # Extracting keywords for specific articles using the links variable 
@@ -124,15 +123,17 @@ def extract_keywords(row):
 
 
 
-# Mapping a cateogry to each article based on 
-def extract_categories(df):
+# Mapping a cateogry to each article based on
+def extract_categories(df:pd.DataFrame):
 
+    # Category keywords mapping (keywords need to be lowercase because that's what I'm matching to)
     category_keywords = {
-        "China": ["china", "beijing", "xi", "taiwan"],
-        "Semiconductors": ["semiconductor", "chip", "nvidia", "intel", "amd"],
-        "Technology": ["ai", "data", "cloud", "software", "technology"],
-        "Politics": ["election", "government", "policy", "congress"],
-        "Finance": ["stock", "market", "finance", "economy", "inflation"]}
+        "China": ["china", "beijing", "xi", "taiwan", "alibaba", "tencent", "huawei", "baidu", "hong kong", "shanghai"],
+        "Technology": ["ai", "data", "cloud", "software", "technology", "nvidia", "intel", "amd"],
+        "Politics": ["election", "government", "policy", "congress", "economy", "protest", "protesters", "military"],
+        "International": ["global", "united nations", "diplomacy", "european union", "eu", "nato", "un", "african union", "war"
+                        "asean", "brics", "arab league", "opec", "latin america", "middle east", "shanghai cooperation organization"]
+        }
 
     df['category'] = None
 
@@ -142,7 +143,7 @@ def extract_categories(df):
         title = '' if pd.isna(row.get('title')) else str(row['title'])
         summary = '' if pd.isna(row.get('summary')) else str(row['summary'])
         keywords = '' if pd.isna(row.get('keywords')) else str(row['keywords'])
-        combined_text = " ".join([title, keywords, summary]).lower()
+        combined_text = " ".join([title, keywords, summary]).lower() # Make everything lowercase for matching
 
         # Initialize matched_category state to none
         matched_category = None
@@ -161,9 +162,8 @@ def extract_categories(df):
 
 
 
-# Taking my cleaned df and converting it into a clean markdown output
-
-def df_to_markdown(df):
+# Taking my cleaned df and converting it into a formated markdown file
+def df_to_markdown(df: pd.DataFrame):
 
     # Grabbing unique categories from sqlite db
     categories = df['category'].unique().tolist() 
@@ -209,7 +209,7 @@ def df_to_markdown(df):
     return print(f"✅ Markdown file generated at: {output_path.resolve()} \n")
 
 
-def send_markdown_as_email(markdown_path, email_sender, email_pass, email_to, today_date):
+def send_markdown_as_email(markdown_path: str, email_sender: str, email_pass: str, email_to:list, today_date):
     with open(markdown_path, "r", encoding="utf-8") as f:
         md_text = f.read()
 
