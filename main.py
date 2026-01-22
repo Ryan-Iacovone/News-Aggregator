@@ -80,6 +80,9 @@ cleaned_articles.loc[:, 'keywords'] = cleaned_articles['keywords'].apply(
     lambda x: ", ".join(w.strip().capitalize() for w in x.split(","))
     if isinstance(x, str) else x)
 
+# Apparently the AP categorizes lotery articles as 'data' so I'm manually filtering them out here
+cleaned_articles = cleaned_articles[~cleaned_articles["title"].str.contains("Winning numbers", case=False, na=False)]
+
 # Using a .copy to avoid SettingWithCopyWarning when I add new variable
 cleaned_articles = cleaned_articles.copy()
 

@@ -127,6 +127,7 @@ def extract_keywords(row):
 def extract_categories(df:pd.DataFrame):
 
     # Category keywords mapping (keywords need to be lowercase because that's what I'm matching to)
+    # Also I don't think two word strings works for searching
     category_keywords = {
         "China": ["china", "beijing", "xi", "taiwan", "alibaba", "tencent", "huawei", "baidu", "hong kong", "shanghai"],
         "Technology": ["ai", "data", "cloud", "software", "technology", "nvidia", "intel", "amd"],
