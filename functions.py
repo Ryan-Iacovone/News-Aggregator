@@ -42,7 +42,7 @@ def retrieve_xml_articles(xml_links: list):
 
         for article in articles:
 
-            title = article.find("news:title").get_text()
+            title = article.find("news:title").get_text() if article.find("news:title") else None # There's an example of an AP article not having a title huh who knew
             link = article.find("loc").text # get_text doesn't work here for links 
             source = article.find("news:name").get_text()
             language = article.find("news:language").get_text()
