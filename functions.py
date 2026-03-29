@@ -24,11 +24,14 @@ from sqlalchemy import create_engine, text
 def retrieve_xml_articles(xml_links: list):
         
     chrome_options = Options()
-    chrome_options.add_argument("--headless")                  # Run in headless mode
-    chrome_options.add_argument("--disable-gpu")               # Disable GPU (usually helpful on Windows)
-    chrome_options.add_argument("--no-sandbox")  
+    
+    chrome_options.add_argument("--headless=new")  # modern headless mode
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-gpu")  # optional but safe
+    chrome_options.add_argument("--window-size=1920,1080")
 
-    driver = webdriver.Chrome()
+    driver = webdriver.Chrome(options=chrome_options)
 
     # Initalizing news articles df  
     new_articles = pd.DataFrame(columns=["title", "link", "source", "language", "published_date", "keywords"])  

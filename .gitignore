@@ -9,6 +9,7 @@ Notes.txt
 
 # Virtual environments
 .venv
+.idea
 
 # Environment variables
 .env
