@@ -81,7 +81,7 @@ cleaned_articles.loc[:, 'keywords'] = cleaned_articles['keywords'].apply(
     if isinstance(x, str) else x)
 
 # Apparently the AP categorizes lotery articles as 'data' so I'm manually filtering them out here
-cleaned_articles = cleaned_articles[~cleaned_articles["title"].str.contains("Winning numbers|Sports Betting Line|Gulf States Sportswatch Daily Listings", case=False, na=False)]
+cleaned_articles = cleaned_articles[~cleaned_articles["title"].str.contains("Winning numbers|Sports Betting Line|Sportswatch Daily Listings", case=False, na=False)]
 
 # Using a .copy to avoid SettingWithCopyWarning when I add new variable
 cleaned_articles = cleaned_articles.copy()
