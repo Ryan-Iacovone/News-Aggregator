@@ -35,7 +35,7 @@ load_dotenv()
 with engine.connect() as connection:
     xml_links = pd.read_sql_query(
         text("""SELECT article_links FROM article_sources
-                where source_type == 'XML'""" ), connection)   
+                where source_type == 'XML' AND status == 1""" ), connection)   
 xml_links_list = xml_links['article_links'].tolist()
 
 news_articles = retrieve_xml_articles(xml_links_list)
@@ -45,7 +45,7 @@ news_articles = retrieve_xml_articles(xml_links_list)
 with engine.connect() as connection:
     rss_links = pd.read_sql_query(
         text("""SELECT article_links FROM article_sources
-        where source_type == 'RSS'"""), connection)
+                WHERE source_type == 'RSS' AND status == 1"""), connection)
 rss_links_list = rss_links['article_links'].tolist()
 
 rss_stories = retrieve_rss_feeds(rss_links_list)
@@ -149,4 +149,4 @@ email_recipients = email_recipients['emails'].tolist()
 today_date = datetime.now(tz=ZoneInfo("US/Eastern")).strftime("%A, %B %d, %Y")
 
 # Taking that Markdown file we saved above, converting it to HTML and sending as an email
-send_markdown_as_email("news_digest.md", email_sender, email_pass, email_recipients, today_date)
+#send_markdown_as_email("news_digest.md", email_sender, email_pass, email_recipients, today_date)

@@ -3,7 +3,7 @@ name = "news-aggregator"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.11"
 dependencies = [
     "bs4>=0.0.2",
     "dotenv>=0.9.9",

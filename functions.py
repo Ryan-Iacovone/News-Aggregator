@@ -133,7 +133,7 @@ def extract_categories(df:pd.DataFrame):
     # Also I don't think two word strings works for searching
     category_keywords = {
         "China": ["china", "beijing", "xi", "taiwan", "alibaba", "tencent", "huawei", "baidu", "hong kong", "shanghai"],
-        "Technology": ["ai", "data", "cloud", "software", "technology", "nvidia", "intel", "amd"],
+        "Technology": ["ai", "data", "cloud", "software", "technology", "nvidia", "intel", "amd", "nasa", "science"],
         "Politics": ["election", "government", "policy", "congress", "economy", "protest", "protesters", "military"],
         "International": ["global", "united nations", "diplomacy", "european union", "eu", "nato", "un", "african union", "war"
                         "asean", "brics", "arab league", "opec", "latin america", "middle east", "shanghai cooperation organization"]
