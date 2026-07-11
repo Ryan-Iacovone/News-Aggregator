@@ -2,164 +2,409 @@
 
 <h2 style="text-decoration: underline; font-size: 28px; margin-top: 30px;">Politics</h2> 
 
-> ### 📢 [US commander meets with Cuban military officials](https://apnews.com/article/cuba-trump-donovan-meeting-southern-command-3ed36ac053b3b44c3a5ea7e29b092a91)
+> ### 💥 [America In Focus: Fed officials divided on US inflation views; US home prices hit all-time high](https://apnews.com/article/inflation-economy-iran-trump-unemployment-6e3bec84857235030c5aa6859869f33f)
 > **Source:** Associated Press  
-> **Published:** May 29, 07:02 PM  
-> **Tags:** Cuba, Trump, Donovan, Meeting, Southern, Command
+> **Published:** July 11, 10:10 AM  
+> **Tags:** Inflation, Economy, Iran, Trump, Unemployment
 
-> ### 🗞️ [Israeli troops push into southern Lebanese village amid deadly conflict](https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-talks-pentagon-military-ae70dbb957f8611af916d6a04f1752a3)
+> ### 📢 [Khanna says he was detained by the Israeli military and West Bank settlers](https://apnews.com/article/khanna-israel-military-west-bank-settlers-detained-59c6233f5b8935a62fd87b90696e6821)
 > **Source:** Associated Press  
-> **Published:** May 29, 11:57 AM  
-> **Tags:** Lebanon, Israel, Hezbollah, Airstrikes, Talks, Pentagon, Military
+> **Published:** July 11, 03:00 PM  
+> **Tags:** Khanna, Israel, Military, West, Bank, Settlers, Detained
 
-> ### 🗃️ [Louisiana enacts a new congressional map in bid to add a GOP seat](https://apnews.com/article/congress-redistricting-voting-rights-louisiana-de8084df5f9c96ce90c4a7aa0a45e902)
-> **Source:** Associated Press  
-> **Published:** May 29, 11:38 AM  
-> **Tags:** Congress, Redistricting, Voting, Rights, Louisiana
-
-> ### 🆕 [Patriarch Polis III Nona assumes duties in Baghdad after election to lead Chaldean Church](https://apnews.com/article/iraq-christians-chaldean-catholic-church-polis-nona-louis-sako-8e1626ec5a6298be17c0bcfeeb2440d8)
-> **Source:** Associated Press  
-> **Published:** May 29, 02:56 PM  
-> **Tags:** Iraq, Christians, Chaldean, Catholic, Church, Polis, Nona, Louis, Sako
-
-> ### 🗞️ [Another US strike on an alleged drug boat kills 3](https://apnews.com/article/boat-strikes-drug-trafficking-us-military-b2e473d6b1bdb73b180d6808dd047dc6)
-> **Source:** Associated Press  
-> **Published:** May 29, 09:18 PM  
-> **Tags:** Boat, Strikes, Drug, Trafficking, Us, Military
-
-> ### 🗞️ [Opinion | Iran’s Government Is Incapable of Diplomacy](https://www.wsj.com/opinion/irans-government-is-incapable-of-diplomacy-3c4b86c2)
+> ### 📰 [An Army of Foreign Doctors Is Saving Quake Victims From Venezuela’s Hospitals](https://www.wsj.com/world/americas/venezuela-earthquake-healthcare-foreign-doctors-3cb9dcb8)
 > **Source:** WSJ.com: World News  
-> **Published:** May 29, 05:16 PM  
-> **Tags:** Ongoing efforts are not only useless but also an impediment to U.S. and allied military success.
-
-<h2 style="text-decoration: underline; font-size: 28px; margin-top: 30px;">China</h2> 
-
-> ### 📰 [US, China trade journalist expulsions days after Trump visit to Beijing](https://apnews.com/article/china-us-journalist-expelled-xinhua-times-aee81ac4e3fe851f0633cdc4987906e1)
-> **Source:** Associated Press  
-> **Published:** May 29, 05:57 PM  
-> **Tags:** China, Us, Journalist, Expelled, Xinhua, Times
-
-> ### 🗃️ [Chinese court sentences former Shaolin Temple abbot to 24 years for bribery](https://apnews.com/article/china-former-shalin-temple-abbot-sentence-prison-dd9608558c1338756aa09c4aa5c5eb32)
-> **Source:** Associated Press  
-> **Published:** May 29, 09:27 AM  
-> **Tags:** China, Former, Shalin, Temple, Abbot, Sentence, Prison
-
-> ### 🌎 [The U.N. Is Going Broke as the U.S. and China Withhold Billions](https://www.wsj.com/world/the-u-n-is-going-broke-as-the-u-s-and-china-withhold-billions-bd1fae5e)
-> **Source:** WSJ.com: World News  
-> **Published:** May 29, 10:25 PM  
-> **Tags:** The Trump administration has failed to pay billions of dollars owed to the international body, while Beijing has been accused of gaming the budget.
-
-> ### 🌎 [We Tracked Iran’s Secret Ghost Ships Transferring Oil at Sea](https://www.wsj.com/world/middle-east/we-tracked-irans-secret-ghost-ships-transferring-oil-at-sea-ea228754)
-> **Source:** WSJ.com: World News  
-> **Published:** May 29, 09:01 AM  
-> **Tags:** Watch how aging tankers are ferrying sanctioned oil to China—evading U.S. enforcement through a web of deceptive tactics.
-
-> ### 📢 [Putin’s $26 Billion Longevity Push](https://www.wsj.com/tech/ai/putins-26-billion-longevity-push-cefe975d?mod=rss_Technology)
-> **Source:** Technology - WSJ.com  
-> **Published:** May 29, 12:00 PM  
-> **Tags:** Plus, why investors are betting on ‘physical AI’ and how China stuffed the Maextro S800 with gadgets.
-
-> ### 🗃️ [Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site](https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/)
-> **Source:** Ars Technica - All content  
-> **Published:** May 29, 09:03 AM  
-> **Tags:** A new crew launched to China's Tiangong space station, and one of the astronauts will stay for a year.
-
-<h2 style="text-decoration: underline; font-size: 28px; margin-top: 30px;">International</h2> 
-
-> ### 📰 [Russia-led Eurasian Economic Union threatens to suspend Armenia over its EU bid](https://apnews.com/article/russia-putin-pashinyan-eurasian-union-eu-1715de2e54a4be941a296c22b90dd209)
-> **Source:** Associated Press  
-> **Published:** May 29, 02:17 PM  
-> **Tags:** Russia, Putin, Pashinyan, Eurasian, Union, Eu
-
-> ### 🆕 [Opinion | What’s Up With Trump and NATO?](https://www.wsj.com/opinion/nato-europe-u-s-troops-donald-trump-pentagon-ae89cb86)
-> **Source:** WSJ.com: World News  
-> **Published:** May 29, 05:18 PM  
-> **Tags:** The Pentagon is cutting troops in Europe, even as Russia probes for weakness. Is there a U.S. strategy here?
+> **Published:** July 11, 02:00 PM  
+> **Tags:** Decades of mismanagement left the current U.S.-backed government unable to cope with the disaster.
 
 <h2 style="text-decoration: underline; font-size: 28px; margin-top: 30px;">Technology</h2> 
 
-> ### 🗃️ [The Google Engineer Accused of Risking It All With an Insider Polymarket Bet](https://www.wsj.com/tech/google-engineer-polymarket-bet-4d27b6b7?mod=rss_Technology)
+> ### 💥 [Meta reins in new AI tool after criticism](https://apnews.com/article/meta-artificial-intelligence-instagram-images-privacy-4df3bdb3fec6e046c6562accc2d270a5)
+> **Source:** Associated Press  
+> **Published:** July 11, 12:33 PM  
+> **Tags:** Meta, Artificial, Intelligence, Instagram, Images, Privacy
+
+> ### 🗃️ [How AI Advice Is Undermining Eating-Disorder Therapy](https://www.wsj.com/tech/ai/chatbot-advice-eating-disorder-therapy-5fe601fd?mod=rss_Technology)
 > **Source:** Technology - WSJ.com  
-> **Published:** May 29, 09:31 PM  
-> **Tags:** Michele Spagnuolo, the Google engineer accused of using company data to bet on Polymarket, had a long list of enviable accomplishments
+> **Published:** July 11, 10:00 AM  
+> **Tags:** Even a chatbot trained on nutrition and fitness research that dispenses reasonable-sounding guidance can become a deadly influence.
 
-> ### 📰 [A Famous Math Problem Stumped Humans for 80 Years. AI Just Cracked It.](https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84?mod=rss_Technology)
-> **Source:** Technology - WSJ.com  
-> **Published:** May 29, 09:00 PM  
-> **Tags:** The math world is losing its mind over the new solution to an Erdős problem. This is what AI found, how we missed it—and why it matters.
+<h2 style="text-decoration: underline; font-size: 28px; margin-top: 30px;">China</h2> 
 
-> ### 🖥️ [What the Tech Gods Should Learn from the Church](https://www.wsj.com/tech/ai/church-pope-ai-belief-33d3c158?mod=rss_Technology)
-> **Source:** Technology - WSJ.com  
-> **Published:** May 29, 01:00 PM  
-> **Tags:** In an age of artificial intelligence, which voice of authority carries more weight? A priest who’s advised the Vatican weighs in.
+> ### 🌎 [Major German carmakers hit by steep China sales plunge as competition heats up](https://apnews.com/article/cars-china-economy-europe-sales-d156bfb9548c6d1c7e08ccb906963959)
+> **Source:** Associated Press  
+> **Published:** July 11, 10:17 AM  
+> **Tags:** Cars, China, Economy, Europe, Sales
 
-> ### 📢 [Venture Capital Turns to Hardware Bets as AI Threatens Software Companies](https://www.wsj.com/tech/ai/venture-capital-turns-to-hardware-bets-as-ai-threatens-software-companies-29b8b5f3?mod=rss_Technology)
-> **Source:** Technology - WSJ.com  
-> **Published:** May 29, 11:00 AM  
-> **Tags:** Investors are betting big on infrastructure and “physical AI,” enticed by the prospect of new revenue opportunities.
+<h2 style="text-decoration: underline; font-size: 28px; margin-top: 30px;">Code</h2> 
 
-> ### 📢 [Opinion | Gavin Newsom Wants an AI New Deal](https://www.wsj.com/opinion/newsom-wants-a-new-ai-new-deal-02e4b0f9?mod=rss_Technology)
-> **Source:** Technology - WSJ.com  
-> **Published:** May 29, 05:28 PM  
-> **Tags:** The California Governor is tilting toward an even larger entitlement state.
+> ### 🏛 [pandas 3.0.4](https://github.com/pandas-dev/pandas/releases/tag/v3.0.4)
+> **Source:** Release notes from pandas  
+> **Published:** June 28, 11:34 AM  
+> **Tags:** No summary available.
 
-> ### 🖥️ [Startup offers free home cleaning—if it can record it all for robot training](https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/)
-> **Source:** Ars Technica - All content  
-> **Published:** May 29, 12:16 PM  
-> **Tags:** The latest twist in paying humans to wear head cameras for robot training data.
+> ### 🗞️ [pandas 3.0.3](https://github.com/pandas-dev/pandas/releases/tag/v3.0.3)
+> **Source:** Release notes from pandas  
+> **Published:** May 11, 03:16 PM  
+> **Tags:** No summary available.
 
-> ### 📰 [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/)
-> **Source:** Ars Technica - All content  
-> **Published:** May 28, 10:21 PM  
-> **Tags:** New Glenn was due to play a starring role in NASA's Artemis Program.
+> ### 📢 [pandas 3.0.2](https://github.com/pandas-dev/pandas/releases/tag/v3.0.2)
+> **Source:** Release notes from pandas  
+> **Published:** March 30, 04:18 PM  
+> **Tags:** No summary available.
 
-> ### 📰 [NASA Awards Contract for Johnson Space Center Infrastructure](https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/)
-> **Source:** NASA  
-> **Published:** May 29, 05:24 PM  
-> **Tags:** NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across the NASA Johnson campus. All funds must be obligated by Sept. 30, 2026. [&#8230;]
+> ### 🗃️ [pandas 3.0.1](https://github.com/pandas-dev/pandas/releases/tag/v3.0.1)
+> **Source:** Release notes from pandas  
+> **Published:** February 18, 04:14 AM  
+> **Tags:** No summary available.
 
-> ### 📰 [NASA Hosts SpaceX Crew-11 Astronauts for Public Event at Headquarters](https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/)
-> **Source:** NASA  
-> **Published:** May 29, 04:49 PM  
-> **Tags:** NASA will host a public event featuring three crew members from the agency’s SpaceX Crew-11 mission at 11 a.m. EDT Monday, June 1. The event, which takes place during the crew’s standard postflight visit, will be held in the Webb Auditorium at NASA Headquarters in the Mary W. Jackson building, 300 E. Street SW in [&#8230;]
+> ### 🌎 [v3.1.0.dev0](https://github.com/pandas-dev/pandas/releases/tag/v3.1.0.dev0)
+> **Source:** Release notes from pandas  
+> **Published:** January 27, 06:13 AM  
+> **Tags:** No summary available.
 
-> ### 📢 [NASA’s Roman Space Telescope Primary Mirror Gets Last Look](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/)
-> **Source:** NASA  
-> **Published:** May 29, 12:33 PM  
-> **Tags:** Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy Grace Roman Space Telescope: the primary mirror. This 7.9-foot (2.4-meter) mirror will collect and focus light from cosmic objects near and far, helping Roman capture stunning panoramas of space. &#8220;The Roman engineering [&#8230;]
+> ### 🌎 [pandas 3.0.0](https://github.com/pandas-dev/pandas/releases/tag/v3.0.0)
+> **Source:** Release notes from pandas  
+> **Published:** January 22, 05:37 AM  
+> **Tags:** No summary available.
 
-> ### 🖥️ [Hubble Spies Faint Irregular Galaxy](https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/)
-> **Source:** NASA  
-> **Published:** May 29, 12:14 PM  
-> **Tags:** This NASA&#160;Hubble Space Telescope&#160;image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years&#160;away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their&#160;diffraction spikes. [&#8230;]
+> ### 🏛 [Pandas 3.0.0rc2](https://github.com/pandas-dev/pandas/releases/tag/v3.0.0rc2)
+> **Source:** Release notes from pandas  
+> **Published:** January 15, 02:22 AM  
+> **Tags:** No summary available.
 
-> ### 🖥️ [Hubble Captures M88 on Journey to Center of Virgo Cluster](https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/)
-> **Source:** NASA  
-> **Published:** May 29, 07:29 AM  
-> **Tags:** This NASA Hubble Space Telescope image features the active spiral galaxy Messier 88 (M88), located about 63 million light-years away.
+> ### 💥 [Pandas 3.0.0rc1](https://github.com/pandas-dev/pandas/releases/tag/v3.0.0rc1)
+> **Source:** Release notes from pandas  
+> **Published:** December 19, 05:32 PM  
+> **Tags:** No summary available.
 
-> ### 🗞️ [Painting the Growing Season in the Maize Triangle](https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/)
-> **Source:** NASA  
-> **Published:** May 29, 12:00 AM  
-> **Tags:** Radar data from an agricultural area in South Africa, shown in a vivid color palette, reveal crop types and how they changed during the Southern Hemisphere’s growing season.
+> ### 📰 [Pandas 3.0.0rc0](https://github.com/pandas-dev/pandas/releases/tag/v3.0.0rc0)
+> **Source:** Release notes from pandas  
+> **Published:** December 04, 11:52 AM  
+> **Tags:** No summary available.
 
-> ### 📢 [NASA’s X-59 Prepares for First Supersonic Flight](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/)
-> **Source:** NASA  
-> **Published:** May 28, 06:29 PM  
-> **Tags:** NASA’s X-59 quiet supersonic research aircraft is preparing for some of its most significant flights yet. The X-plane is about to begin a new block of test flights that will include its first time flying faster than the speed of sound and other mission-critical objectives. “What comes next is the first time this one-of-a-kind aircraft [&#8230;]
+> ### 🌎 [Pandas 2.3.3](https://github.com/pandas-dev/pandas/releases/tag/v2.3.3)
+> **Source:** Release notes from pandas  
+> **Published:** September 29, 06:48 PM  
+> **Tags:** No summary available.
 
-> ### 🗃️ [I Am Artemis: Daniel Stubbs](https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/)
-> **Source:** NASA  
-> **Published:** May 28, 05:58 PM  
-> **Tags:** Listen to this audio excerpt from Daniel Stubbs, NASA aerospace engineer: If you’ve driven through a cloud of dust and dirt that temporarily obscured your view, you’ve gotten a partial picture of a potential problem that NASA’s human landing systems for Artemis will face when they land on the Moon. Daniel Stubbs, an aerospace engineer [&#8230;]
+> ### 🖥️ [v2.5.1 (July 4, 2026)](https://github.com/numpy/numpy/releases/tag/v2.5.1)
+> **Source:** Release notes from numpy  
+> **Published:** July 04, 01:30 PM  
+> **Tags:** No summary available.
 
-> ### 📢 [Curiosity Blog, Sols 4900-4907: Pasadena, We Have a Drill Sample!](https://science.nasa.gov/blog/curiosity-blog-sols-4900-4907-pasadena-we-have-a-drill-sample/)
-> **Source:** NASA  
-> **Published:** May 28, 03:37 PM  
-> **Tags:** Written by Abigail Fraeman, Deputy Project Scientist at Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, May 22, 2026 I spent this past weekend eagerly awaiting the downlink from Mars that would show us the results of Curiosity’s drill attempt at “Campo Marte.” A few weeks ago, when Curiosity drilled the “Atacama” […]
+> ### 💥 [v2.5.0 (June 21, 2026)](https://github.com/numpy/numpy/releases/tag/v2.5.0)
+> **Source:** Release notes from numpy  
+> **Published:** June 21, 05:28 PM  
+> **Tags:** No summary available.
 
-> ### 🆕 [NASA Uses Mineralogical Marker to Understand Ancient Martian Climate](https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/)
-> **Source:** NASA  
-> **Published:** May 28, 02:22 PM  
-> **Tags:** Scientists analyzed 20 Martian samples collected by NASA’s Curiosity Rover and found that differences in hematite crystallite size at varying elevations could serve as a new mineralogical marker for understanding Mars’ ancient climate.
+> ### 📰 [v2.5.0rc1 (June 2, 2026)](https://github.com/numpy/numpy/releases/tag/v2.5.0rc1)
+> **Source:** Release notes from numpy  
+> **Published:** June 02, 09:53 AM  
+> **Tags:** No summary available.
+
+> ### 📰 [v2.6.0.dev0](https://github.com/numpy/numpy/releases/tag/v2.6.0.dev0)
+> **Source:** Release notes from numpy  
+> **Published:** May 24, 06:22 PM  
+> **Tags:** No summary available.
+
+> ### 🖥️ [v2.4.6 (May 18, 2026)](https://github.com/numpy/numpy/releases/tag/v2.4.6)
+> **Source:** Release notes from numpy  
+> **Published:** May 18, 09:01 PM  
+> **Tags:** No summary available.
+
+> ### 🗞️ [v2.4.5 (May 15, 2026)](https://github.com/numpy/numpy/releases/tag/v2.4.5)
+> **Source:** Release notes from numpy  
+> **Published:** May 15, 04:46 PM  
+> **Tags:** No summary available.
+
+> ### 🌎 [2.4.4 (Mar 29, 2026)](https://github.com/numpy/numpy/releases/tag/v2.4.4)
+> **Source:** Release notes from numpy  
+> **Published:** March 29, 09:38 AM  
+> **Tags:** No summary available.
+
+> ### 📰 [2.4.3 (Mar 9, 2026)](https://github.com/numpy/numpy/releases/tag/v2.4.3)
+> **Source:** Release notes from numpy  
+> **Published:** March 09, 01:09 PM  
+> **Tags:** No summary available.
+
+> ### 📢 [2.4.2 (Feb 1, 2026)](https://github.com/numpy/numpy/releases/tag/v2.4.2)
+> **Source:** Release notes from numpy  
+> **Published:** February 01, 11:19 AM  
+> **Tags:** No summary available.
+
+> ### 📢 [2.4.1 (Jan 10, 2026)](https://github.com/numpy/numpy/releases/tag/v2.4.1)
+> **Source:** Release notes from numpy  
+> **Published:** January 10, 01:01 PM  
+> **Tags:** No summary available.
+
+> ### 🗃️ [v2.34.2](https://github.com/psf/requests/releases/tag/v2.34.2)
+> **Source:** Release notes from requests  
+> **Published:** May 14, 03:27 PM  
+> **Tags:** No summary available.
+
+> ### 🗃️ [v2.34.1](https://github.com/psf/requests/releases/tag/v2.34.1)
+> **Source:** Release notes from requests  
+> **Published:** May 13, 03:23 PM  
+> **Tags:** No summary available.
+
+> ### 📢 [v2.34.0](https://github.com/psf/requests/releases/tag/v2.34.0)
+> **Source:** Release notes from requests  
+> **Published:** May 11, 03:40 PM  
+> **Tags:** No summary available.
+
+> ### 📰 [v2.34.0.dev1](https://github.com/psf/requests/releases/tag/v2.34.0.dev1)
+> **Source:** Release notes from requests  
+> **Published:** May 03, 03:51 PM  
+> **Tags:** No summary available.
+
+> ### 🌎 [v2.33.1](https://github.com/psf/requests/releases/tag/v2.33.1)
+> **Source:** Release notes from requests  
+> **Published:** March 30, 12:12 PM  
+> **Tags:** No summary available.
+
+> ### 🌎 [v2.33.0](https://github.com/psf/requests/releases/tag/v2.33.0)
+> **Source:** Release notes from requests  
+> **Published:** March 25, 12:38 PM  
+> **Tags:** No summary available.
+
+> ### 📢 [v2.32.5](https://github.com/psf/requests/releases/tag/v2.32.5)
+> **Source:** Release notes from requests  
+> **Published:** August 19, 01:41 AM  
+> **Tags:** No summary available.
+
+> ### 🗃️ [v2.32.4](https://github.com/psf/requests/releases/tag/v2.32.4)
+> **Source:** Release notes from requests  
+> **Published:** June 09, 02:22 PM  
+> **Tags:** No summary available.
+
+> ### 🖥️ [v2.32.3](https://github.com/psf/requests/releases/tag/v2.32.3)
+> **Source:** Release notes from requests  
+> **Published:** May 29, 11:39 AM  
+> **Tags:** No summary available.
+
+> ### 🖥️ [v2.32.2](https://github.com/psf/requests/releases/tag/v2.32.2)
+> **Source:** Release notes from requests  
+> **Published:** May 21, 02:53 PM  
+> **Tags:** No summary available.
+
+> ### 🌎 [Packaging Council Inaugural Election Dates](https://blog.python.org/2026/06/2026-packaging-council-election-dates/)
+> **Source:** Python Insider  
+> **Published:** June 27, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🏛 [Mitigated API authentication bypass for python.org download metadata](https://blog.python.org/2026/06/mitigated-api-bypass-for-download-metadata-python-dot-org/)
+> **Source:** Python Insider  
+> **Published:** June 22, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🗞️ [Python 3.15.0 beta 3 is here!](https://blog.python.org/2026/06/python-3150-beta-3/)
+> **Source:** Python Insider  
+> **Published:** June 22, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🌎 [Python 3.14.6 and 3.13.14 are now available!](https://blog.python.org/2026/06/python-3146-31314/)
+> **Source:** Python Insider  
+> **Published:** June 09, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🌎 [Python 3.15.0 beta 2 is here!](https://blog.python.org/2026/06/python-3150-beta-2/)
+> **Source:** Python Insider  
+> **Published:** June 01, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🗃️ [Python 3.14.5 is out!](https://blog.python.org/2026/05/python-3145-is-out/)
+> **Source:** Python Insider  
+> **Published:** May 09, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🖥️ [Python 3.15.0 beta 1 is here!](https://blog.python.org/2026/05/python-3150-beta-1/)
+> **Source:** Python Insider  
+> **Published:** May 06, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🏛 [Python 3.14.5 release candidate](https://blog.python.org/2026/05/python-3145rc1/)
+> **Source:** Python Insider  
+> **Published:** May 03, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 💥 [Rust for CPython Progress Update April 2026](https://blog.python.org/2026/04/rust-for-cpython-2026-04/)
+> **Source:** Python Insider  
+> **Published:** April 07, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 📢 [Python 3.15.0a8, 3.14.4 and 3.13.13 are out!](https://blog.python.org/2026/04/python-3150a8-3144-31313/)
+> **Source:** Python Insider  
+> **Published:** April 06, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🖥️ [Python 3.15's JIT is now back on track](https://blog.python.org/2026/03/jit-on-track/)
+> **Source:** Python Insider  
+> **Published:** March 22, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 💥 [Python 3.15.0 alpha 7](https://blog.python.org/2026/03/python-3150-alpha-7/)
+> **Source:** Python Insider  
+> **Published:** March 09, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🏛 [CPython: 36 Years of Source Code](https://blog.python.org/2026/03/cpython-codebase-growth/)
+> **Source:** Python Insider  
+> **Published:** March 07, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 💥 [Python 3.12.13, 3.11.15 and 3.10.20 are now available!](https://blog.python.org/2026/03/python-31213-31115-31020/)
+> **Source:** Python Insider  
+> **Published:** March 02, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 🏛 [The Python Insider Blog Has Moved!](https://blog.python.org/2026/03/the-python-insider-blog-has-moved/)
+> **Source:** Python Insider  
+> **Published:** March 02, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 🗃️ [Join the Python Security Response Team!](https://blog.python.org/2026/02/join-the-python-security-response-team/)
+> **Source:** Python Insider  
+> **Published:** February 16, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 📢 [Python 3.15.0 alpha 6](https://blog.python.org/2026/02/python-3150-alpha-6/)
+> **Source:** Python Insider  
+> **Published:** February 10, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 📰 [Python 3.14.3 and 3.13.12 are now available!](https://blog.python.org/2026/02/python-3143-and-31312-are-now-available/)
+> **Source:** Python Insider  
+> **Published:** February 02, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 📰 [Python 3.15.0 alpha 5 (yes, another alpha!)](https://blog.python.org/2026/01/python-3150-alpha-5-yes-another-alpha/)
+> **Source:** Python Insider  
+> **Published:** January 13, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 📢 [Python 3.15.0 alpha 4](https://blog.python.org/2026/01/python-3150-alpha-4/)
+> **Source:** Python Insider  
+> **Published:** January 12, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 🏛 [Python 3.15.0 alpha 3](https://blog.python.org/2025/12/python-3150-alpha-3/)
+> **Source:** Python Insider  
+> **Published:** December 15, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 📢 [Python 3.14.2 and 3.13.11 are now available!](https://blog.python.org/2025/12/python-3142-and-31311-are-now-available/)
+> **Source:** Python Insider  
+> **Published:** December 04, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 📢 [Python 3.13.10 is now available, too, you know!](https://blog.python.org/2025/12/python-31310-is-now-available-too-you/)
+> **Source:** Python Insider  
+> **Published:** December 01, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 💥 [Python 3.14.1 is now available!](https://blog.python.org/2025/12/python-3141-is-now-available/)
+> **Source:** Python Insider  
+> **Published:** December 01, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 🖥️ [Python 3.15.0 alpha 2](https://blog.python.org/2025/11/python-3150a2/)
+> **Source:** Python Insider  
+> **Published:** November 18, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 🗞️ [Python 3.15.0 alpha 1](https://blog.python.org/2025/10/python-3150-alpha-1/)
+> **Source:** Python Insider  
+> **Published:** October 14, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🌎 [Python 3.13.9 is now available!](https://blog.python.org/2025/10/python-3139-is-now-available/)
+> **Source:** Python Insider  
+> **Published:** October 13, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🗞️ [Python 3.12.12, 3.11.14, 3.10.19 and 3.9.24 are now available!](https://blog.python.org/2025/10/python-31212-31114-31019-and-3924-are/)
+> **Source:** Python Insider  
+> **Published:** October 08, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🗃️ [Python 3.13.8 is now available](https://blog.python.org/2025/10/python-3138-is-now-available/)
+> **Source:** Python Insider  
+> **Published:** October 06, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🌎 [Python 3.14.0 (final) is here!](https://blog.python.org/2025/10/python-3140-final-is-here/)
+> **Source:** Python Insider  
+> **Published:** October 06, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 📢 [Python 3.14.0rc3 is go!](https://blog.python.org/2025/09/python-3140rc3-is-go/)
+> **Source:** Python Insider  
+> **Published:** September 17, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🖥️ [Python 3.14.0rc2 and 3.13.7 are go!](https://blog.python.org/2025/08/python-3140rc2-and-3137-are-go/)
+> **Source:** Python Insider  
+> **Published:** August 13, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🌎 [Python 3.13.6 is now available](https://blog.python.org/2025/08/python-3136-is-now-available/)
+> **Source:** Python Insider  
+> **Published:** August 05, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🌎 [Python 3.14 release candidate 1 is go!](https://blog.python.org/2025/07/python-314-release-candidate-1-is-go/)
+> **Source:** Python Insider  
+> **Published:** July 21, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🖥️ [Python 3.14.0 beta 4 is here!](https://blog.python.org/2025/07/python-3140-beta-4-is-here/)
+> **Source:** Python Insider  
+> **Published:** July 07, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 📢 [Python 3.14.0 beta 3 is here!](https://blog.python.org/2025/06/python-3140-beta-3-is-here/)
+> **Source:** Python Insider  
+> **Published:** June 16, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 📰 [Python 3.13.5 is now available!](https://blog.python.org/2025/06/python-3135-is-now-available/)
+> **Source:** Python Insider  
+> **Published:** June 10, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🏛 [Python 3.13.4, 3.12.11, 3.11.13, 3.10.18 and 3.9.23 are now available](https://blog.python.org/2025/06/python-3134-31211-31113-31018-and-3923/)
+> **Source:** Python Insider  
+> **Published:** June 02, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 📢 [Python 3.14.0 beta 2 is here!](https://blog.python.org/2025/05/python-3140-beta-2-is-here/)
+> **Source:** Python Insider  
+> **Published:** May 25, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 📰 [Python 3.14.0 beta 1 is here!](https://blog.python.org/2025/05/python-3140-beta-1-is-here/)
+> **Source:** Python Insider  
+> **Published:** May 06, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 🗞️ [Python 3.14.0a7, 3.13.3, 3.12.10, 3.11.12, 3.10.17 and 3.9.22 are now available](https://blog.python.org/2025/04/python-3140a7-3133-31210-31112-31017/)
+> **Source:** Python Insider  
+> **Published:** April 07, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 💥 [Python 3.14.0 alpha 6 is out](https://blog.python.org/2025/03/python-3140-alpha-6-is-out/)
+> **Source:** Python Insider  
+> **Published:** March 13, 08:00 PM  
+> **Tags:** No summary available.
+
+> ### 📢 [Python 3.14.0 alpha 5 is out](https://blog.python.org/2025/02/python-3140-alpha-5-is-out/)
+> **Source:** Python Insider  
+> **Published:** February 10, 07:00 PM  
+> **Tags:** No summary available.
+
+> ### 📢 [Python 3.13.2 and 3.12.9 now available!](https://blog.python.org/2025/02/python-3132-and-3129-now-available/)
+> **Source:** Python Insider  
+> **Published:** February 03, 07:00 PM  
+> **Tags:** No summary available.
 

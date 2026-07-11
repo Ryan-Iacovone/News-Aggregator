@@ -69,25 +69,34 @@ combined_articles['keywords'] = combined_articles.apply(extract_keywords, axis=1
 # Assigning each article a category based on the title, keywords, and summary
 combined_articles = extract_categories(combined_articles)
 
-# Manually inputing a separate category for powerbi 
-combined_articles.loc[combined_articles['source'] == "Microsoft Power BI Blog | Microsoft Power BI", 'category'] = "PowerBi"
+## manually input a separate category for coding related notices
+pattern = r"Python Insider|Release notes|Power BI Updates Blog"
+combined_articles.loc[combined_articles["source"].str.contains(pattern, case=False, na=False), "category"] = "Code"
 
 # Filtering out all news articles that didn't get assigned a caetegory
 cleaned_articles = combined_articles[combined_articles['category'] != 'Other']
+
+# Apparently the AP categorizes lotery articles as 'data' so I'm manually filtering them out here
+cleaned_articles = cleaned_articles[~cleaned_articles["title"].str.contains("Winning numbers|Sports Betting Line|Sportswatch Daily Listings", case=False, na=False)]
 
 # Capitalizing all the keywords that are in list format
 cleaned_articles.loc[:, 'keywords'] = cleaned_articles['keywords'].apply(
     lambda x: ", ".join(w.strip().capitalize() for w in x.split(","))
     if isinstance(x, str) else x)
 
-# Apparently the AP categorizes lotery articles as 'data' so I'm manually filtering them out here
-cleaned_articles = cleaned_articles[~cleaned_articles["title"].str.contains("Winning numbers|Sports Betting Line|Sportswatch Daily Listings", case=False, na=False)]
-
 # Using a .copy to avoid SettingWithCopyWarning when I add new variable
 cleaned_articles = cleaned_articles.copy()
 
 # Applying todays date as the uploaded date 
 cleaned_articles["upload_date"] = today
+
+# Only publish code related articles if today is Tuesday, Thursday, or Saturday
+approved_days = [1,3,5]
+
+if datetime.strptime(today.split(".")[0], "%Y-%m-%d %H:%M:%S").weekday() in approved_days:
+    pass
+else:
+    cleaned_articles = cleaned_articles[cleaned_articles["category"] != "Code"]
 
 
 ######### Uploading the clean dataframe to my SQL db, ensuring I don't add duplicates #########
@@ -96,7 +105,8 @@ cleaned_articles["upload_date"] = today
 engine = create_engine("sqlite:///articles.db")
 with engine.connect() as connection:
     articles_db = pd.read_sql_query(
-        text("""SELECT * FROM news_articles"""),connection)
+        text("""SELECT * 
+             FROM news_articles"""),connection)
         #parse_dates=['published_date', 'upload_date'])
     
 # Localizing the date variables from sqlite into UTC

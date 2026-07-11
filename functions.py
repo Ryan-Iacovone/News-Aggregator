@@ -89,7 +89,7 @@ def retrieve_rss_feeds(rss_urls_list: list):
             "title": entry.title,
             "link": entry.link,
             "summary": entry.description,
-            "published_date": entry.published,
+            "published_date": entry.get("published") or entry.get("updated"),
             "source": feed.channel.title}, index=[0]) 
             
             rss_stories = pd.concat([rss_stories, tempdf], ignore_index=True)
@@ -176,7 +176,7 @@ def df_to_markdown(df: pd.DataFrame):
     markdown_output = f"# 📰 Demolition Daily\n\n"
 
     # list of emojis to itterate through for fun!
-    news_emojis = ["🆕", "📰", "🌎", "📢", "🖥️", "🗃️", "🗞️"] 
+    news_emojis = ["💥", "📰", "🌎", "🏛", "📢", "🖥️", "🗃️", "🗞️"] 
 
     for category in categories:
         subset = df[df["category"] == category]
@@ -188,12 +188,16 @@ def df_to_markdown(df: pd.DataFrame):
         for i, row in subset.iterrows():
             # Handle summary / keywords fallback
             summary_text = None
-            if pd.notna(row.get('summary')) and str(row['summary']).strip():
-                summary_text = row['summary']
-            elif pd.notna(row.get('keywords')) and str(row['keywords']).strip():
-                summary_text = row['keywords']
-            else:
+            if category == "Code":
                 summary_text = 'No summary available.'
+            else:
+            
+                if pd.notna(row.get('summary')) and str(row['summary']).strip():
+                    summary_text = row['summary']
+                elif pd.notna(row.get('keywords')) and str(row['keywords']).strip():
+                    summary_text = row['keywords']
+                else:
+                    summary_text = 'No summary available.'
 
             # Handle source field gracefully
             source = row.get('source', 'Unknown Source')
