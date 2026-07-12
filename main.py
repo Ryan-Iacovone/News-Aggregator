@@ -159,4 +159,4 @@ email_recipients = email_recipients['emails'].tolist()
 today_date = datetime.now(tz=ZoneInfo("US/Eastern")).strftime("%A, %B %d, %Y")
 
 # Taking that Markdown file we saved above, converting it to HTML and sending as an email
-#send_markdown_as_email("news_digest.md", email_sender, email_pass, email_recipients, today_date)
+send_markdown_as_email("news_digest.md", email_sender, email_pass, email_recipients, today_date)

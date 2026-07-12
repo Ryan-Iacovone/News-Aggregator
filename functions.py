@@ -10,7 +10,6 @@ from email.mime.text import MIMEText
 # Third-party imports
 import pandas as pd
 import feedparser
-import pytz
 from pathlib import Path
 from dotenv import load_dotenv
 from selenium import webdriver
@@ -39,7 +38,7 @@ def retrieve_xml_articles(xml_links: list):
     for url in xml_links:
         driver.get(url)
         xml_site = driver.page_source
-        soup = BeautifulSoup(xml_site, "lxml-xml")
+        soup = BeautifulSoup(xml_site, "html.parser")
 
         articles = soup.find_all("url")
 
