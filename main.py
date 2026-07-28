@@ -70,7 +70,7 @@ combined_articles['keywords'] = combined_articles.apply(extract_keywords, axis=1
 combined_articles = extract_categories(combined_articles)
 
 ## manually input a separate category for coding related notices
-pattern = r"Python Insider|Release notes|Power BI Updates Blog"
+pattern = r"Python Insider|Release notes|Power BI Updates Blog articles"
 combined_articles.loc[combined_articles["source"].str.contains(pattern, case=False, na=False), "category"] = "Code"
 
 # Filtering out all news articles that didn't get assigned a caetegory
