@@ -90,8 +90,8 @@ cleaned_articles = cleaned_articles.copy()
 # Applying todays date as the uploaded date 
 cleaned_articles["upload_date"] = today
 
-# Only publish code related articles if today is Tuesday, Thursday, or Saturday
-approved_days = [1,3,5]
+# Only publish code related articles if today is Monday, Wednesday, Friday
+approved_days = [0,2,4]
 
 if datetime.strptime(today.split(".")[0], "%Y-%m-%d %H:%M:%S").weekday() in approved_days:
     pass
