@@ -77,7 +77,8 @@ combined_articles.loc[combined_articles["source"].str.contains(pattern, case=Fal
 cleaned_articles = combined_articles[combined_articles['category'] != 'Other']
 
 # Apparently the AP categorizes lotery articles as 'data' so I'm manually filtering them out here
-cleaned_articles = cleaned_articles[~cleaned_articles["title"].str.contains("Winning numbers|Sports Betting Line|Sportswatch Daily Listings", case=False, na=False)]
+# Also filtering out opion articles from the WSJ ensuring the escape the or operator |
+cleaned_articles = cleaned_articles[~cleaned_articles["title"].str.contains("Winning numbers|Sports Betting Line|Sportswatch Daily Listings|Opinion \|", case=False, na=False)]
 
 # Capitalizing all the keywords that are in list format
 cleaned_articles.loc[:, 'keywords'] = cleaned_articles['keywords'].apply(

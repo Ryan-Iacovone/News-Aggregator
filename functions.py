@@ -87,7 +87,7 @@ def retrieve_rss_feeds(rss_urls_list: list):
             tempdf = pd.DataFrame({
             "title": entry.title,
             "link": entry.link,
-            "summary": entry.description,
+            "summary": entry.get("description"),
             "published_date": entry.get("published") or entry.get("updated"),
             "source": feed.channel.title}, index=[0]) 
             
